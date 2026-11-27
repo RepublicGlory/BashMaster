@@ -1,0 +1,5 @@
+# One entry per line: label|shell command
+# Commands are executed in the current shell when selected.
+Project directory|pwd
+Show date|date
+List files|ls -la
